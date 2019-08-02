@@ -1,5 +1,3 @@
-# Matsick-Dot-Com
-
- --- Matsick.com ---
+# Matsick.com
 
 Source code for my personal website - Currently under development
