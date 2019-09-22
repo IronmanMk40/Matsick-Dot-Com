@@ -43,10 +43,11 @@ ul.posts li {
 }
 
 hr {
-width: 75%;
-height: 10px;
+width: 90%;
+height: 5px;
 margin-top: 10px;
 margin-bottom: 10px;
+background-color: black;
 }
     
 }
