@@ -1,11 +1,12 @@
 ---
 layout: default
-title: Caleb Matsick's Blog
+title: Ideas that Resonate
 ---
-	<h1>{{ page.title }}</h1>
-	<ul class="posts">
+	<h1>A Collection of Reflections</h1>
+	<p>“I am not what I ought to be, 
+		I am not what I want to be, 
+		I am not what I hope to be in another world;
+		but still I am not what I once used to be, 
+		and by the grace of God I am what I am”
+		- John Newton</p>
 
-	  {% for post in site.posts %}
-	    <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
-	  {% endfor %}
-	</ul>
