@@ -1,4 +1,4 @@
-# Matsick.org
+# calebmatsick.github.io
 
 Source code for my personal website - Currently under development
 
